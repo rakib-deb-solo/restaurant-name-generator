@@ -31,10 +31,9 @@ This program randomly picks two words from text files (`.txt`) you provide and c
 
 └── README.md # Project documentation (this file)
 
-yaml
-Copy code
 
----
+
+
 
 ## ⚙️ How It Works
 
@@ -45,8 +44,7 @@ Cafe
 
 Fine Dining
 
-yaml
-Copy code
+
 2. The program opens the corresponding `.txt` file (based on your choice).  
 3. It randomly selects 2 words from the file.  
 4. Combines them into a creative restaurant name.  
@@ -81,8 +79,6 @@ The Beehive Cafe The Concrete Cup
 
 ✨ Thank you for using Restaurant Name Generator!
 
-yaml
-Copy code
 
 ---
 
