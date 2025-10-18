@@ -1,0 +1,261 @@
+McDonald's
+Burger King
+KFC
+Subway
+Taco Bell
+Wendy's
+Pizza Hut
+Domino's
+Chick-fil-A
+Starbucks
+Dunkin'
+Chipotle Mexican Grill
+Dairy Queen
+Sonic Drive-In
+Arby's
+Panda Express
+Shake Shack
+Five Guys
+In-N-Out Burger
+Jack in the Box
+Popeyes Louisiana Kitchen
+Carl's Jr.
+Hardee's
+Jersey Mike's Subs
+Jimmy John's
+Qdoba
+Culver's
+Whataburger
+Zaxby's
+Jollibee
+Tim Hortons
+Baskin-Robbins
+Krispy Kreme
+Panera Bread
+White Castle
+Checkers
+Rally's
+Papa John's
+A&W Restaurants
+Long John Silver's
+MOS Burger
+Sukiya
+Nando's
+Pret A Manger
+Mixue Ice Cream & Tea
+Waffle House
+Del Taco
+Church's Texas Chicken
+Bojangles'
+Wienerschnitzel
+Blimpie
+Moe's Southwest Grill
+Captain D's
+Firehouse Subs
+Fazoli's
+Cinnabon
+Auntie Anne's
+Baja Fresh
+Boston Market
+California Pizza Kitchen
+Cheeseburger
+Big Mac
+Whopper
+Quarter Pounder
+Baconator
+ShackBurger
+Double-Double
+Cheesesteak
+French Fries
+Curly Fries
+Tater Tots
+Onion Rings
+Chicken Nuggets
+Chicken Strips
+Popcorn Chicken
+Chicken Sandwich
+Spicy Chicken Sandwich
+Fish Sandwich
+Hot Dog
+Corn Dog
+Taco Supreme
+Crunchwrap Supreme
+Burrito Supreme
+Soft Taco
+Hard Shell Taco
+Quesadilla
+Nachos
+Burrito Bowl
+Salad
+Chili
+Soup
+Pizza Slice
+Pepperoni Pizza
+Personal Pizza
+Stromboli
+Calzone
+Pita
+Gyro
+Kebab
+Falafel Wrap
+Donut
+Glazed Donut
+Coffee
+Iced Coffee
+Latte
+Cappuccino
+Macchiato
+Mocha
+Frappuccino
+Milkshake
+Malt
+Blizzard
+McFlurry
+Frosty
+Soft Serve Cone
+Sundae
+Churro
+Cookie
+Brownie
+Muffin
+Bagel
+Breakfast Sandwich
+Egg Sandwich
+Sausage McMuffin
+Croissant
+Samosa
+Vada Pav
+Pani Puri
+Kathi Roll
+Fried Rice
+Egg Roll
+Spring Roll
+Lo Mein
+Waffle Fries
+Sweet Potato Fries
+Garlic Fries
+Chili Cheese Fries
+Onion Blossom
+Mozzarella Sticks
+Jalapeño Poppers
+Chicken Wings
+Bone-in Chicken
+Tenders
+Wrap
+Club Sandwich
+Submarine Sandwich
+Reuben
+Philly Cheesesteak
+Pulled Pork Sandwich
+BBQ Sandwich
+Tuna Melt
+Grilled Cheese
+Potato Skins
+Loaded Fries
+Slushie
+Lemonade
+Iced Tea
+Root Beer Float
+Orange Julius
+Cheeseburger Slider
+Chicken Slider
+Steak Burrito
+Al Pastor Taco
+Fish Taco
+Shrimp Taco
+Supreme Pizza
+Meat Lover's Pizza
+Veggie Pizza
+Cookie Dough
+Brownie Sundae
+Caramel Macchiato
+Vanilla Shake
+Strawberry Shake
+Chocolate Shake
+Breakfast Burrito
+Hash Browns
+Biscuit
+Sausage Gravy
+Pancake
+French Toast
+Apple Pie
+Cherry Pie
+Chocolate Chip Cookie
+Oatmeal Raisin Cookie
+Pretzel Bites
+Cheddar Bites
+Chicken Tostada
+Beef Tostada
+Guacamole
+Salsa
+Sour Cream
+Black Beans
+Pinto Beans
+Coleslaw
+Potato Salad
+Mac and Cheese
+Corn on the Cob
+Fried Okra
+Hushpuppies
+Clam Chowder
+Seafood Platter
+Fish and Chips
+Corned Beef Hash
+Spaghetti
+Lasagna
+Chicken Parm
+Alfredo Pasta
+Shrimp Scampi
+Poutine
+Butter Chicken
+Chicken Tikka Masala
+Shawarma
+Doner Kebab
+Chicken Tender Meal
+Popcorn Shrimp
+Spicy Mayo
+Ranch Dressing
+Honey Mustard
+BBQ Sauce
+Sweet and Sour Sauce
+Buffalo Sauce
+Teriyaki Chicken
+Orange Chicken
+Kung Pao Chicken
+Broccoli Beef
+Vegetable Delight
+Tofu Stir Fry
+Edamame
+Potsticker
+Gyoza
+Wonton
+Pho
+Ramen
+Curry
+Pad Thai
+Naan
+Chaat
+Bhel Puri
+Dahi Puri
+Pav Bhaji
+Misal Pav
+Akuri
+Thali
+Lassi
+Fajita
+Carnitas
+Barbacoa
+Chipotle Chicken
+Steak Burrito
+Queso Dip
+Chipotle Sauce
+Green Sauce
+Red Sauce
+Sriracha Mayo
+Sweet Chili Sauce
+Aioli
+Pickles
+Relish
+Mustard
+Ketchup
+Mayo
