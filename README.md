@@ -20,10 +20,15 @@ This program randomly picks two words from text files (`.txt`) you provide and c
 
 📁 Restaurant-Name-Generator
 │
+
 ├── Restaurant Name Generator.py # Main Python script
+
 ├── Cafe.txt # List of cafe-related words/names
+
 ├── Fast Food.txt # List of fast food-related words/names
+
 ├── Fine Dining.txt # List of fine dining-related words/names
+
 └── README.md # Project documentation (this file)
 
 yaml
